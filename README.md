@@ -2,3 +2,5 @@
 ================================
 
 can use this skill simulator to try upgrade skill in 12 tails online game.
+
+Thanks to หมาป่าวาย for code.
